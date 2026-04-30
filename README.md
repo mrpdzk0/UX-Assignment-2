@@ -19,3 +19,12 @@ My second design choice is adding a volume system that turns the volume up or do
 
 <img width="927" height="608" alt="image" src="https://github.com/user-attachments/assets/8700dc22-eb64-4474-be1f-27cd18063095" />
 
+My last design choice was a programme that saves where you have watched to by saving it onto your browsers cache such as things that youtube has where it will save your watch progress on certain videos. This choice was inspired by Tasmin Bath as she needed it since she binge watched a lot and falls asleep a lot while watching her shows and hates missing content.
+
+Reflection:
+Writing this code was not easy and I have learned a lot doing this, from how to make websites using HTML, CSS and Java to where to find resources to help me out with this. The most challenging thing I have encountered when doing this website was mostly the layout of the page, not everything was where I wanted it to be a lot of the time but spending hours looking at and editting my .css file everything came into place in the end. Now my website looks the way I want it to look. Furthermore, another challenge I came across was scripting Java. It is a lot harder than I originally thought it was and it took some time to get a hang of it especially to make everything function the way I wanted to. I used youtube tutorials and resources such as W3Schools to mostly overcome this challenge.
+
+There were many bugs at first in my code but I think now they have all been resolved and everything works the way I intend it to work.
+
+My profiles were each tested individually while the website was being built and it progressed well.
+
