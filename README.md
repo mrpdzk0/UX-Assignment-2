@@ -13,7 +13,7 @@ I implemented a dark background and large contrasting colours for our first prof
 
 <img width="935" height="610" alt="image" src="https://github.com/user-attachments/assets/bda11eb3-cbfb-43c6-a713-8eefe872695b" />
 
-My second design choice is adding a volume system that turns the volume up or down depending on the volume the user set for the browser they are watching it in with a high max volume for people that are hard of hearing like
+My second design choice is adding a volume system that turns the volume up or down depending on the volume the user set for the browser they are watching it in with a high max volume for people that are hard of hearing like Willian Johnson. He should have no problem watching his favourite shows now.
 
 ### Profile Three:
 
