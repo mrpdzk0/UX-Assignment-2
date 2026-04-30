@@ -36,6 +36,8 @@ W3C HTML Validator:
 W3C CSS Validator:
 <img width="1881" height="696" alt="image" src="https://github.com/user-attachments/assets/c6afc43b-afd8-45c4-a679-dfe73ff4e255" />
 
+Google Lighthouse:
+<img width="1155" height="864" alt="image" src="https://github.com/user-attachments/assets/e80d92f1-0f2e-414b-9a41-b78d41f0e02b" />
 
 References for images in html file:
 
