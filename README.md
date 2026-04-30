@@ -24,7 +24,7 @@ My last design choice was a programme that saves where you have watched to by sa
 Reflection:
 Writing this code was not easy and I have learned a lot doing this, from how to make websites using HTML, CSS and Java to where to find resources to help me out with this. The most challenging thing I have encountered when doing this website was mostly the layout of the page, not everything was where I wanted it to be a lot of the time but spending hours looking at and editting my .css file everything came into place in the end. Now my website looks the way I want it to look. Furthermore, another challenge I came across was scripting Java. It is a lot harder than I originally thought it was and it took some time to get a hang of it especially to make everything function the way I wanted to. I used youtube tutorials and resources such as W3Schools to mostly overcome this challenge.
 
-There were many bugs at first in my code but I think now they have all been resolved and everything works the way I intend it to work.
+There were many bugs at first in my code but I think now they have all been resolved and everything works the way I intend it to work. Another "bug" is that my OMDB API key is visible to the public and is left unsolved since I could not figure out how to change it.
 
 My profiles were each tested individually while the website was being built and it progressed well.
 
