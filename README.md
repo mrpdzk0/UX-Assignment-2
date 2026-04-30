@@ -33,6 +33,10 @@ https://mrpdzk0.github.io/UX-Assignment-2/ - LINK TO LIVE WEBSITE
 W3C HTML Validator:
 <img width="1919" height="609" alt="image" src="https://github.com/user-attachments/assets/30756262-6f43-428a-b373-72b51db62380" />
 
+W3C CSS Validator:
+<img width="1881" height="696" alt="image" src="https://github.com/user-attachments/assets/c6afc43b-afd8-45c4-a679-dfe73ff4e255" />
+
+
 References for images in html file:
 
 Arrow. “Arrow Right Classic Solid Icon | Font Awesome.” Fontawesome.com, Arrow Right Classic Solid Icon | Font Awesome, 2026, fontawesome.com/icons/arrow-right?f=classic&s=solid. Accessed 30 Apr. 2026.
