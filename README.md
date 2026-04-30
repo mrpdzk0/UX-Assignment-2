@@ -28,3 +28,14 @@ There were many bugs at first in my code but I think now they have all been reso
 
 My profiles were each tested individually while the website was being built and it progressed well.
 
+https://mrpdzk0.github.io/UX-Assignment-2/ - LINK TO LIVE WEBSITE
+
+References for images in html file:
+
+Arrow. “Arrow Right Classic Solid Icon | Font Awesome.” Fontawesome.com, Arrow Right Classic Solid Icon | Font Awesome, 2026, fontawesome.com/icons/arrow-right?f=classic&s=solid. Accessed 30 Apr. 2026.
+
+Duckduckgo.com, 2026, external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdavidkoepp.com%2Fwp-content%2Fthemes%2Fblankslate%2Fimages%2FMovie%2520Placeholder.jpg&f=1&nofb=1&ipt=322d9ce99c3fa051d58cf9ee9ae0b6f311bbecbfb7d1a58d4cc02c93a56c4b93. Accessed 30 Apr. 2026.
+
+Glass, Magnifying. “Magnifying Glass Solid Icon | Font Awesome.” Fontawesome.com, Magnifying Glass Solid Icon | Font Awesome, 2026, fontawesome.com/icons/magnifying-glass?s=solid. Accessed 30 Apr. 2026.
+
+White, Latisha. “Cool Profile Picture for TikTok! <3.” Pinterest, 17 May 2022, mx.pinterest.com/pin/blank-pfp-purple-aesthetic--161918549094270352/. Accessed 30 Apr. 2026.
