@@ -1,3 +1,5 @@
+// https://www.omdbapi.com/ - website I used for api key
+
 const API_KEY = "92563ddf";
 
 const sections = document.querySelectorAll(".new-movies");
